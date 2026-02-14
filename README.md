@@ -8,7 +8,7 @@ Professional security assets for identifying and neutralizing WordPress threats.
 
 ## 📋 Professional Services
 I offer comprehensive security audits and emergency recovery on Fiverr. 
-**[Link to your Fiverr Gig Here]**
+**https://www.fiverr.com/s/dDxa7v2**
 
 ---
 *Maintained by a Cybersecurity Student at OFPPT, Morocco.*
